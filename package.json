@@ -1,0 +1,23 @@
+{
+  "name": "herald",
+  "version": "1.0.0",
+  "description": "_Under construction._",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zachlatta/herald"
+  },
+  "author": "Zach Latta <zach@zachlatta.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zachlatta/herald/issues"
+  },
+  "homepage": "https://github.com/zachlatta/herald",
+  "dependencies": {
+    "bluebird": "^2.9.24",
+    "phridge": "^1.0.8"
+  }
+}
